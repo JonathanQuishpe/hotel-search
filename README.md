@@ -1,4 +1,10 @@
-# hotel-reservation-app
+# Reservación de hotel
+
+## Project description
+```
+La aplicación le permite buscar un hotel en un listado de fechas, el resultado será
+el hotel con menor precio y mayor calificación
+```
 
 ## Project setup
 ```
