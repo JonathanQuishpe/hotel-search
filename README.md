@@ -2,8 +2,8 @@
 
 ## Project description
 ```
-La aplicación le permite buscar un hotel en un listado de fechas, el resultado será
-el hotel con menor precio y mayor calificación
+La aplicación le permite buscar un hotel dando un listado fechas, el resultado será
+el hotel con menor precio y mayor calificación.
 ```
 
 ## Project setup
